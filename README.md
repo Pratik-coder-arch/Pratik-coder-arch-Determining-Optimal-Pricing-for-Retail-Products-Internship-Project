@@ -141,7 +141,3 @@ This project solves the issue through **data-driven price optimization**, ensuri
 ## 📬 Contact
 
 For feedback, questions, or collaboration opportunities, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ask-pratik-bokade/).
-
----
-
-Let me know if you'd like a shorter or more beginner-friendly version!
