@@ -1,0 +1,58 @@
+product_id: Unique identifier for each product
+
+product_category_name: Category of the product
+
+month_year: Date of the sales record
+
+qty: Quantity of product sold
+
+total_price: Total price of the sale
+
+freight_price: Shipping cost
+
+unit_price: Price per unit of the product
+
+product_name_lenght: Length of the product name
+
+product_description_lenght: Length of the product description
+
+product_photos_qty: Number of photos for the product
+
+product_weight_g: Weight of the product in grams
+
+product_score: Rating or score of the product
+
+customers: Number of customers who purchased the product
+
+weekday: Number of weekdays in the month
+
+weekend: Number of weekend days in the month
+
+holiday: Number of holidays in the month
+
+month: Month of the sale
+
+year: Year of the sale
+s: Likely a calculated field, possibly sales rate or similar metric
+
+volume: Possibly the volume of the product
+
+comp_1: Price of competitor 1's product
+
+ps1: Product score of competitor 1's product
+
+fp1: Freight price of competitor 1's product
+
+comp_2: Price of competitor 2's product
+
+ps2: Product score of competitor 2's product
+
+fp2: Freight price of competitor 2's product
+
+comp_3: Price of competitor 3's product
+
+ps3: Product score of competitor 3's product
+
+fp3: Freight price of competitor 3's product
+
+(Target) lag_price: Price of the product in the previous time period
